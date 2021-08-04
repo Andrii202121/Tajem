@@ -377,6 +377,11 @@ span:hover{
   .amazing-team_column {
     flex: 0 1 100%;
   }
+  .amazing-team h2{
+    padding: 2px;
+    font-size: 10px;
+    margin: 0px;
+  }
 }
 
 .amazing-team_item {
