@@ -367,17 +367,9 @@ span:hover{
 @media (max-width: 971px){
   .amazing-team_row{
     flex-wrap: wrap;
-    padding: 0 20px;
   }
   .amazing-team_column{
     flex: 0 0 50%;
-    margin-top: 20px;
-  }
-  .amazing-team_subtitle{
-    font-size: 27px;
-  }
-  .amazing-team h2{
-    font-size: 40px;
   }
 }
 
