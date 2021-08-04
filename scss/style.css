@@ -597,11 +597,8 @@ span:hover{
 }
 
 @media (max-width: 974px) {
-  .expertise_row{
-    padding: 0 20px;
-  }
   .expertise_column{
-    flex: 0 0 50%;
+    flex: 0 1 50%;
     border: 1px solid #b1afb2;
   }
   .expertise_column--1, .expertise_column--3, .expertise_column--5 {
