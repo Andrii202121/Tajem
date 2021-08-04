@@ -621,26 +621,10 @@ span:hover{
   }
   .expertise_column--6{
   } 
-  .expertise_subtitle{
-    font-size: 27px;
-  }
-  .expertise h2{
-    font-size: 40px;
-  }
-  .expertise_item{
-    margin: 40px;
-  }
-  .expertise_text{
-    font-size: 25px;
-  }
-  .expertise h4{
-    font-size: 30px;
-  }
 }
 @media (max-width: 767px) {
   .expertise_column{
     flex: 0 0 100%;
-    margin: 10px;
   }
   .expertise_column--1, .expertise_column--2, .expertise_column--3, .expertise_column--4, .expertise_column--6{
     border-left: none;
